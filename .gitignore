@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Байт-код, оптимизированные / DLL-файлы
+__pycache__/
+
+# Файлы конфигурации для venv
+.venv
+
+# Файлы конфигурации для PyCharm
+.idea
